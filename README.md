@@ -12,7 +12,8 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?  They are addressing the time it takes for institutions to settle transactions in traditional markets.  (Typically, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement. 
-* Who is the company's intended customer? The intended customers are enterprises, institutions, and individual investors.  Is there any information about the market size of this set of customers?  U.S. crypto exchanges made an estimated $1 billion in trade fee revenue in 2019.
+* Who is the company's intended customer? The intended customers are enterprises, institutions, and individual investors.
+* Is there any information about the market size of this set of customers?  U.S. crypto exchanges made an estimated $1 billion in trade fee revenue in 2019.
 * What solution does this company offer that their competitors do not or cannot offer?  An Institutional grade alternative settlement solution and stablecoin as a service.
 * What is the unfair advantage they utilize? Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely.
 * Which technologies are they currently using, and how are they implementing them?  They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
