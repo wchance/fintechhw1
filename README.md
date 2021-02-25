@@ -4,8 +4,8 @@
 
 * Name of company? Paxos Trust Company, LLC
 * When was the company incorporated? Paxos Trust Company, LLC, was founded April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015 [[1]](#1)..
-* Who are the founders of the company?  The founders are former financial advistor Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder) [[1]](#1).
-* How did the idea for the company (or project) come about?  They wanted to solve problems in the financial system and realized that blockchain could be the solution [[2]](#2). 
+* Who are the founders of the company?  A former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder) [[1]](#1).
+* How did the idea for the company (or project) come about?  They wanted to solve problems in the financial system and realized that blockchain could provide the solution [[2]](#2). 
 * How is the company funded?  They have received several rounds of venture capital funding.  
 * How much funding have they received? As of December 2020, they have received **US$240M** in total funding [[3]](#3).  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures [[3]](#3).)
 
