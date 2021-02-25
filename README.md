@@ -3,32 +3,32 @@
 ## Overview and Origin
 
 * Name of company? Paxos Trust Company, LLC
-* When was the company incorporated? Paxos Trust Company, LLC, was founded April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015.
-* Who are the founders of the company?  Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder)
-* How did the idea for the company (or project) come about?  They wanted to solve problems in the financial system and realized that blockchain could be the solution.
-* How is the company funded?  They have received several rounds of venture capital funding.  
-* How much funding have they received? As of December 2020, they have received **US$240M** in total funding [[1]](#1).  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures [[1]](#1).)
+* When was the company incorporated? Paxos Trust Company, LLC, was founded April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015 [[1]](#1)..
+* Who are the founders of the company?  The founders are former financial advistor Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder) [[1]](#1).
+* How did the idea for the company (or project) come about?  They wanted to solve problems in the financial system and realized that blockchain could be the solution [[2]](#2). 
+* How is the company funded?  They have received several rounds of venture capital funding [[3]](#3).  
+* How much funding have they received? As of December 2020, they have received **US$240M** in total funding [[3]](#3).  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures [[3]](#3).)
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?  They are addressing the time it takes for institutions to settle transactions in traditional markets.  (Typically, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement. 
 * Who is the company's intended customer? The intended customers are enterprises, institutions, and individual investors.
-* Is there any information about the market size of this set of customers?  U.S. crypto exchanges made an estimated $1 billion in trade fee revenue in 2019.
+* Is there any information about the market size of this set of customers?  U.S. crypto exchanges made an estimated $1 billion in trade fee revenue in 2019 [[4]](#4).
 * What solution does this company offer that their competitors do not or cannot offer?  An Institutional grade alternative settlement solution and stablecoin as a service.
-* What is the unfair advantage they utilize? Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely.
+* What is the unfair advantage they utilize? Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely [[7]](#7).
 * Which technologies are they currently using, and how are they implementing them?  They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?  Blockchain and Cryptocurrencies, Enterprise Solutions, and Institutional Solutions.
-* What have been the major trends and innovations of this domain over the last 5-10 years?  A new class of cryptocurrencies that offer price stability via collateralization.  Decentralized exchanges (DEX) which allows for direct peer-to-peer transactions without intermediates.  Bitcoin Lightning Network for instant transactions without creating a on-blockchain transaction for individual payments.  Homomorphic encryption allows for computation of data without decrypting.  (In the healthcare field can resolve medical data privacy issues.)
-* What are the other major companies in this domain?  Tether Operations Limited (USDT) $34.8B, Circle International Bermuda (USDC) $8.1B, Maker Foundation (DAI) $2.3B, and Binance (BUSD) $2.2B
+* What have been the major trends and innovations of this domain over the last 5-10 years?  A new class of cryptocurrencies that offer price stability via collateralization.  Decentralized exchanges (DEX) which allows for direct peer-to-peer transactions without intermediates.  Bitcoin Lightning Network for instant transactions without creating a on-blockchain transaction for individual payments.  Homomorphic encryption allows for computation of data without decrypting [[6]](#6).  (In the healthcare field can resolve medical data privacy issues.)
+* What are the other major companies in this domain?  Tether Operations Limited (USDT) $34.8B, Circle International Bermuda (USDC) $8.1B, Maker Foundation (DAI) $2.3B, and Binance (BUSD) $2.2B [[5]](#5).
 
 ## Results
 
 * What has been the business impact of this company so far?  There blockchain-based settlement services is being used by Credit Suisse, Société Générale, and Instinet.    They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
 * What are some of the core metrics that companies in this domain use to measure success?  Comparing the stablecoin they use Market Capitalization, Market Dominance, and Trading Volume.
-*  How is your company performing, based on these metrics?  Based on Market Cap they are not growing at the same rate as competitors but are increasing at a steady rate.  Market Dominance dropped from 4% to under 2% year over year.  Trading volume has decreased significantly (80-90% decrease).
+*  How is your company performing, based on these metrics?  Based on Market Cap they are not growing at the same rate as competitors but are increasing at a steady rate.  Market Dominance dropped from 4% to under 2% year over year.  Trading volume has decreased significantly (80-90% decrease) [[5]](#5).
 * How is your company performing relative to competitors in the same domain?  Currently they are not growing as fast, but I anticipate business will pick up considerably once Paypal users can purchase native blockchain tokens powered by Paxos.
 
 ## Recommendations
@@ -39,17 +39,30 @@
 * Why are these technologies appropriate for your solution?  Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
 
 ## References
-<a id="1">[1]</a> 
-McClain, Rebecca (2020). 
-https://www.paxos.com/paxos-raises-142-million-in-series-c-funding/
+<a id="1">[1]</a>
 
+* Paxos Trust Company. In *Wikipedia* https://en.wikipedia.org/wiki/Paxos_Trust_Company#:~:text=Charles%20Cascarilla%20and%20Rich%20Teo,itBit%20to%20Paxos%20Trust%20Company.
 
+<a id="2">[2]</a>
 
-https://www.forbes.com/sites/leeorshimron/2020/06/20/crypto-exchanges-and-bitcoin-are-poised-for-massive-growth-by-2030/?sh=4c81c2633f83
-https://en.wikipedia.org/wiki/Homomorphic_encryption#:~:text=Homomorphic%20encryption%20is%20a%20form,performed%20on%20the%20unencrypted%20data.
-https://blockchain.news/news/paxos-how-the-global-financial-crisis-inspired-the-creation-of-the-nydfs-regulated-stablecoin
-https://www.coingecko.com/en/stablecoins
-https://en.bitcoin.it/wiki/ItBit
-https://www.youtube.com/watch?v=V4nuJEK3qz0
-https://en.wikipedia.org/wiki/Decentralized_exchange
-https://www.paxos.com/is-paxos-regulated/
+* CEO Charles Cascarilla - About Paxos, our products, our values and what we look for in team members.  In *YouTube* https://www.youtube.com/watch?v=V4nuJEK3qz0
+
+<a id="3">[3]</a>
+
+* Paxos Raises 142 Million in Series C Funding, McClain, Rebecca (2020). https://www.paxos.com/paxos-raises-142-million-in-series-c-funding/
+
+<a id="4">[4]</a>
+
+* Crypto Exchanges And Bitcoin Are Poised For Massive Growth By 2030 (2020). https://www.forbes.com/sites/leeorshimron/2020/06/20/crypto-exchanges-and-bitcoin-are-poised-for-massive-growth-by-2030/?sh=4c81c2633f83
+
+<a id="5">[5]</a>
+
+* Stablecoins by Market Capitalization. In *Coingecko* https://www.coingecko.com/en/stablecoins
+
+<a id="6">[6]</a>
+
+* Homomorphic encryption. In *Wikipedia* https://en.wikipedia.org/wiki/Homomorphic_encryption#:~:text=Homomorphic%20encryption%20is%20a%20form,performed%20on%20the%20unencrypted%20data.
+
+<a id="7">[7]</a>
+
+* Is Paxos regulated?  What does that mean?  https://www.paxos.com/is-paxos-regulated/
