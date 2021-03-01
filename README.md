@@ -1,8 +1,6 @@
-&nbsp;
+# Paxos Trust Company, LLC
 
 ![logo](https://www.paxos.com/wp-content/uploads/2019/01/paxos-logo.svg)
-
----
 
 # **Case Study**
 
