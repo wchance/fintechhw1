@@ -57,8 +57,10 @@
 &nbsp;
 <!-- What domain of the financial industry is the company in? -->
 * Blockchain and Cryptocurrencies, Enterprise Solutions, and Institutional Solutions.
+
 <!-- What have been the major trends and innovations of this domain over the last 5-10 years? -->
 * A new class of cryptocurrencies that offer price stability via collateralization.  Decentralized exchanges (DEX) which allows for direct peer-to-peer transactions without intermediates.  Bitcoin Lightning Network for instant transactions without creating a on-blockchain transaction for individual payments.  **Homomorphic encryption allows for computation of data without decrypting**. [6]  (In the healthcare field can resolve medical data privacy issues.)
+
 <!-- What are the other major companies in this domain? -->
 * Tether Operations Limited (USDT) **$34.8B**, Circle International Bermuda (USDC) **$8.1B**, Maker Foundation (DAI) **$2.3B**, and Binance (BUSD) **$2.2B**. [5]
 
@@ -70,10 +72,13 @@
 
 <!-- What has been the business impact of this company so far? -->
 * There blockchain-based settlement services is being used by Credit Suisse, Société Générale, and Instinet.    They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
+
 <!-- What are some of the core metrics that companies in this domain use to measure success? -->
 * Comparing the stablecoin they use Market Capitalization, Market Dominance, and Trading Volume.
+
 <!-- How is your company performing, based on these metrics? -->
 * Based on Market Cap they are not growing at the same rate as competitors but are increasing at a steady rate.  Market Dominance dropped from 4% to under 2% year over year.  Trading volume has decreased significantly (80-90% decrease). [5]
+
 <!-- How is your company performing relative to competitors in the same domain? -->
 * Currently they are not growing as fast, but I anticipate business will pick up considerably once Paypal users can purchase native blockchain tokens powered by Paxos.
 
@@ -85,10 +90,13 @@
 
 <!-- If you were to advise the company, what products or services would you suggest they offer? -->
 * Add securities to their exchange solution itBit so they can be traded side by side to native cryptocurrency.
+
 <!-- Why do you think that offering this product or service would benefit the company? -->
 * They are a fee-based company, and this would create new revenue from increased transactions and spike in new customers.
+
 <!-- What technologies would this additional product or service utilize? -->
 * Blockchain, Smart Contracts, and Homomorphic encryption.
+
 <!-- Why are these technologies appropriate for your solution? -->
 * Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
 
