@@ -10,14 +10,29 @@
 
 ## **Overview and Origin**
 
+<!-- Mission statement
+Description of products and services and how they meet the needs of the marketplace
+Target market (who will buy your product or services)
+Competitive advantage (what sets you apart in the marketplace to allow you to succeed)
+Objectives and goals (plans for growth) -->
+
+
 &nbsp;
 
-* Name of company? Paxos Trust Company, LLC
-* When was the company incorporated? Paxos Trust Company, LLC, was founded April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015. [1]
-* Who are the founders of the company?  A former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
-* How did the idea for the company (or project) come about?  They wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
-* How is the company funded?  They have received several rounds of venture capital funding.  
-* How much funding have they received? As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
+<!-- Name of company? -->
+* Paxos Trust Company, LLC is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
+<!-- When was the company incorporated? -->
+* Founded in April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015. [1]
+* They are a multinational company with presense that spans three global financial capitals New York City, Singapore, and London.
+* They have a workforce made up of 110 employees across the globe.
+<!-- Who are the founders of the company? -->
+* The company was founded by a former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
+<!-- How did the idea for the company (or project) come about? -->
+* Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
+<!-- How is the company funded? -->
+* They have received several rounds of venture capital funding.
+<!-- How much funding have they received? -->
+*  As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
 
 &nbsp;
 
