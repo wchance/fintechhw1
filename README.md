@@ -5,14 +5,14 @@
 
 ## **Overview and Origin**
 <!-- Name of company? -->
-* **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
+* **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system. [0]
 
 <!-- When was the company incorporated? -->
 * Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
 
 * They are a multinational company with presense that spans three global financial capitals New York City, Singapore, and London.
 
-* They have a workforce made up of 110 employees across the globe.
+* They have a workforce made up of 110 employees across the globe. [0]
 
 <!-- Who are the founders of the company? -->
 * The company was founded by a pair of former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
@@ -21,10 +21,10 @@
 * Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
 
 <!-- How is the company funded? -->
-* They have received several rounds of venture capital funding.
+* They have received atleast five rounds of venture capital funding.
 
 <!-- How much funding have they received? -->
-*  As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
+*  As of December 2020, they have received a total of **US$240M** in funding. [3]  (In 2013, **US$3.25M**, 2015, **US$25M** Series A funding, 2018, **US$65M** Series B funding, and in late 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
 
 ## **Business Activities**
 <!-- What specific financial problem is the company or project trying to solve? -->
@@ -32,13 +32,13 @@
 <!-- Who is the company's intended customer? -->
 *  The intended customers are enterprises, institutions, and individual investors.
 <!-- Is there any information about the market size of this set of customers? -->
-*   U.S. crypto exchanges made an estimated **$1 billion** in trade fee revenue in 2019. [4]
+*   U.S. crypto exchanges made an estimated **$1 billion** in trade fee revenue in 2019. [4]  As the price of cryptocurrency increases the percentage based fee follows suit and allows for these type of companies to earn more with no additional
 <!-- What solution does this company offer that their competitors do not or cannot offer? -->
 *   An Institutional grade alternative settlement solution and stablecoin as a service.
 <!-- What is the unfair advantage they utilize? -->
-*  **Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely**. [7]
+*  Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is **subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely**. [7]
 <!-- Which technologies are they currently using, and how are they implementing them? -->
-*   They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
+*  They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
 
 ## **Landscape**
 <!-- What domain of the financial industry is the company in? -->
@@ -52,7 +52,7 @@
 
 ## **Results**
 <!-- What has been the business impact of this company so far? -->
-* There blockchain-based settlement services is being used by Credit Suisse, Société Générale, and Instinet.    They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
+* There blockchain-based settlement services is being used by large banks like Credit Suisse, Société Générale, and Instinet.  They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
 
 <!-- What are some of the core metrics that companies in this domain use to measure success? -->
 * Comparing the stablecoin they use Market Capitalization, Market Dominance, and Trading Volume.
@@ -65,18 +65,26 @@
 
 ## **Recommendations**
 <!-- If you were to advise the company, what products or services would you suggest they offer? -->
+* Create the paxos native blockchain to be able to offer faster transaction time and a lower transaction fee.  (Should not depend on other Blockchains)
+
+* Lauch iOS and Android smartphone apps so users can exchange tokens on the go. 
+
 * Add securities to their exchange solution itBit so they can be traded side by side to native cryptocurrency.
 
+* Reduce fees to help increase liquidity/volume on exchange. (Cryptocurrency Withdrawls Fees and ACH Fees)
+
 <!-- Why do you think that offering this product or service would benefit the company? -->
-* They are a fee-based company, and this would create new revenue from increased transactions and spike in new customers.
+* They are a fee-based company, and this would create new revenue from increased transaction volume and spike in new customers.
 
 <!-- What technologies would this additional product or service utilize? -->
-* Blockchain, Smart Contracts, and Homomorphic encryption.
+* They would need to decide on consensus mechanism and blockchain platform.
 
 <!-- Why are these technologies appropriate for your solution? -->
 * Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
 
 ## *References*
+[0]: Our Company. <https://www.paxos.com/company/>
+
 [1]: Paxos Trust Company. In *Wikipedia* <https://en.wikipedia.org/wiki/Paxos_Trust_Company#:~:text=Charles%20Cascarilla%20and%20Rich%20Teo,itBit%20to%20Paxos%20Trust%20Company>.
 
 [2]: CEO Charles Cascarilla - About Paxos, our products, our values and what we look for in team members.  In *YouTube* <https://www.youtube.com/watch?v=V4nuJEK3qz0>
