@@ -1,9 +1,6 @@
-# Paxos Trust Company, LLC
+# Paxos Trust Company, LLC     -    **CASE STUDY**
 
 ![Paxos Trust Company](https://www.paxos.com/wp-content/uploads/2019/01/paxos-logo.svg)
-
-## **Case Study**
-
 
 ## **Overview and Origin**
 
