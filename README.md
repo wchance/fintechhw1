@@ -5,7 +5,7 @@
 
 ## **Overview and Origin**
 <!-- Name of company? -->
-* **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system. [0]
+* **Paxos Trust Company, LLC** (Paxos) is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system. [0]
 
 <!-- When was the company incorporated? -->
 * Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
@@ -20,23 +20,23 @@
 <!-- How did the idea for the company (or project) come about? -->
 * Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
 
-<!-- How is the company funded? -->
-* They have received atleast five rounds of venture capital funding.
-
-<!-- How much funding have they received? -->
-*  As of December 2020, they have received a total of **US$240M** in funding. [3]  (In 2013, **US$3.25M**, 2015, **US$25M** Series A funding, 2018, **US$65M** Series B funding, and in late 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
+<!-- How is the company funded?  How much funding have they received? -->
+* They have received atleast five rounds of venture capital funding.  As of December 2020, they have received a total of *US$240M* in funding. [3]  (In 2013, *US$3.25M*, 2015, *US$25M* Series A funding, 2018, *US$65M* Series B funding, and in late 2020, *US$142M* Series C funding which includes Paypal Ventures. [3])
 
 ## **Business Activities**
 <!-- What specific financial problem is the company or project trying to solve? -->
-* They are addressing the time it takes for institutions to settle transactions in traditional markets.  (Typically, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement.
+* Paxos is addressing the time it takes for institutions to settle transactions in traditional markets.  (Currently, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement.
+
+* They also provide a stablecoin as a service for enterprises who wish to digitize local currency and transact nearly instantly and with nominal fees.  *They bring together the stability of U.S. dollar with the efficiency of blockchain technology.* [0]
+
 <!-- Who is the company's intended customer? -->
-*  The intended customers are enterprises, institutions, and individual investors.
+*  Their products are intended for enterprises, institutions, and individual investors.
 <!-- Is there any information about the market size of this set of customers? -->
-*   U.S. crypto exchanges made an estimated **$1 billion** in trade fee revenue in 2019. [4]  As the price of cryptocurrency increases the percentage based fee follows suit and allows for these type of companies to earn more with no additional
+*   U.S. crypto exchanges made an estimated *$1 billion* in trade fee revenue in 2019. [4]  As the price of cryptocurrency increases the percentage based fee follows suit and allows for these type of companies to earn more with no additional effort.
 <!-- What solution does this company offer that their competitors do not or cannot offer? -->
 *   An Institutional grade alternative settlement solution and stablecoin as a service.
 <!-- What is the unfair advantage they utilize? -->
-*  Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is **subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely**. [7]
+*  Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is *subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely*. [7]
 <!-- Which technologies are they currently using, and how are they implementing them? -->
 *  They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
 
@@ -45,10 +45,10 @@
 * Blockchain and Cryptocurrencies, Enterprise Solutions, and Institutional Solutions.
 
 <!-- What have been the major trends and innovations of this domain over the last 5-10 years? -->
-* A new class of cryptocurrencies that offer price stability via collateralization.  Decentralized exchanges (DEX) which allows for direct peer-to-peer transactions without intermediates.  Bitcoin Lightning Network for instant transactions without creating a on-blockchain transaction for individual payments.  **Homomorphic encryption allows for computation of data without decrypting**. [6]  (In the healthcare field can resolve medical data privacy issues.)
+* A new class of cryptocurrencies that offer price stability via collateralization.  Decentralized exchanges (DEX) which allows for direct peer-to-peer transactions without intermediates.  Bitcoin Lightning Network for instant transactions without creating a on-blockchain transaction for individual payments.  *Homomorphic encryption allows for computation of data without decrypting*. [6]  (In the healthcare field can resolve medical data privacy issues.)
 
 <!-- What are the other major companies in this domain? -->
-* Tether Operations Limited (USDT) **$34.8B**, Circle International Bermuda (USDC) **$8.1B**, Maker Foundation (DAI) **$2.3B**, and Binance (BUSD) **$2.2B**. [5]
+* Tether Operations Limited (USDT) *$34.8B*, Circle International Bermuda (USDC) *$8.1B*, Maker Foundation (DAI) *$2.3B*, and Binance (BUSD) *$2.2B*. [5]
 
 ## **Results**
 <!-- What has been the business impact of this company so far? -->
