@@ -1,9 +1,9 @@
-# Paxos Trust Company, LLC     -    **CASE STUDY**
+# Paxos Trust Company, LLC - **CASE STUDY**
 
 ![Paxos Trust Company](https://www.paxos.com/wp-content/uploads/2019/01/paxos-logo.svg)
 
-## **Overview and Origin**
 
+## **Overview and Origin**
 <!-- Name of company? -->
 * **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
 
@@ -27,7 +27,6 @@
 *  As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
 
 ## **Business Activities**
-
 <!-- What specific financial problem is the company or project trying to solve? -->
 * They are addressing the time it takes for institutions to settle transactions in traditional markets.  (Typically, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement.
 <!-- Who is the company's intended customer? -->
@@ -42,7 +41,6 @@
 *   They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
 
 ## **Landscape**
-
 <!-- What domain of the financial industry is the company in? -->
 * Blockchain and Cryptocurrencies, Enterprise Solutions, and Institutional Solutions.
 
@@ -53,7 +51,6 @@
 * Tether Operations Limited (USDT) **$34.8B**, Circle International Bermuda (USDC) **$8.1B**, Maker Foundation (DAI) **$2.3B**, and Binance (BUSD) **$2.2B**. [5]
 
 ## **Results**
-
 <!-- What has been the business impact of this company so far? -->
 * There blockchain-based settlement services is being used by Credit Suisse, Société Générale, and Instinet.    They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
 
@@ -67,7 +64,6 @@
 * Currently they are not growing as fast, but I anticipate business will pick up considerably once Paypal users can purchase native blockchain tokens powered by Paxos.
 
 ## **Recommendations**
-
 <!-- If you were to advise the company, what products or services would you suggest they offer? -->
 * Add securities to their exchange solution itBit so they can be traded side by side to native cryptocurrency.
 
@@ -81,7 +77,6 @@
 * Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
 
 ## *References*
-
 [1]: Paxos Trust Company. In *Wikipedia* <https://en.wikipedia.org/wiki/Paxos_Trust_Company#:~:text=Charles%20Cascarilla%20and%20Rich%20Teo,itBit%20to%20Paxos%20Trust%20Company>.
 
 [2]: CEO Charles Cascarilla - About Paxos, our products, our values and what we look for in team members.  In *YouTube* <https://www.youtube.com/watch?v=V4nuJEK3qz0>
