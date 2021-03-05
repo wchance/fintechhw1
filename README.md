@@ -60,11 +60,7 @@
 <!-- What are the other major companies in this domain? -->
 * Tether Operations Limited (USDT) **$34.8B**, Circle International Bermuda (USDC) **$8.1B**, Maker Foundation (DAI) **$2.3B**, and Binance (BUSD) **$2.2B**. [5]
 
-&nbsp;
-
 ## **Results**
-
-&nbsp;
 
 <!-- What has been the business impact of this company so far? -->
 * There blockchain-based settlement services is being used by Credit Suisse, Société Générale, and Instinet.    They are a major player in the stablecoin market.  Paypal will use Paxos Crypto Brokerage API to integrate cryptocurreny into the Paypal digital wallet.
@@ -78,11 +74,7 @@
 <!-- How is your company performing relative to competitors in the same domain? -->
 * Currently they are not growing as fast, but I anticipate business will pick up considerably once Paypal users can purchase native blockchain tokens powered by Paxos.
 
-&nbsp;
-
 ## **Recommendations**
-
-&nbsp;
 
 <!-- If you were to advise the company, what products or services would you suggest they offer? -->
 * Add securities to their exchange solution itBit so they can be traded side by side to native cryptocurrency.
@@ -96,11 +88,7 @@
 <!-- Why are these technologies appropriate for your solution? -->
 * Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
 
-&nbsp;
-
 ## *References*
-
-&nbsp;
 
 [1]: Paxos Trust Company. In *Wikipedia* <https://en.wikipedia.org/wiki/Paxos_Trust_Company#:~:text=Charles%20Cascarilla%20and%20Rich%20Teo,itBit%20to%20Paxos%20Trust%20Company>.
 
