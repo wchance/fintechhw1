@@ -4,13 +4,8 @@
 
 ## **Case Study**
 
-&nbsp;
-
-&nbsp;
 
 ## **Overview and Origin**
-
-&nbsp;
 
 <!-- Name of company? -->
 * **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
