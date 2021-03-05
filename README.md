@@ -18,13 +18,10 @@
 <!-- When was the company incorporated? -->
 * Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
 
-&nbsp;
 * They are a multinational company with presense that spans three global financial capitals New York City, Singapore, and London.
 
-&nbsp;
 * They have a workforce made up of 110 employees across the globe.
 
-&nbsp;
 <!-- Who are the founders of the company? -->
 * The company was founded by a former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
 &nbsp;
