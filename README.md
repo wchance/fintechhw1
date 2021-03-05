@@ -13,8 +13,8 @@
 &nbsp;
 
 <!-- Name of company? -->
-* Paxos Trust Company, LLC is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
-&nbsp;
+* **Paxos Trust Company, LLC** is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
+
 <!-- When was the company incorporated? -->
 * Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
 
@@ -23,7 +23,7 @@
 * They have a workforce made up of 110 employees across the globe.
 
 <!-- Who are the founders of the company? -->
-* The company was founded by a former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
+* The company was founded by a pair of former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
 
 <!-- How did the idea for the company (or project) come about? -->
 * Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
@@ -33,7 +33,6 @@
 
 <!-- How much funding have they received? -->
 *  As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
-&nbsp;
 
 ## **Business Activities**
 
@@ -50,11 +49,8 @@
 <!-- Which technologies are they currently using, and how are they implementing them? -->
 *   They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
 
-&nbsp;
-
 ## **Landscape**
 
-&nbsp;
 <!-- What domain of the financial industry is the company in? -->
 * Blockchain and Cryptocurrencies, Enterprise Solutions, and Institutional Solutions.
 
