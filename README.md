@@ -22,8 +22,10 @@ Objectives and goals (plans for growth) -->
 <!-- Name of company? -->
 * Paxos Trust Company, LLC is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system.
 <!-- When was the company incorporated? -->
-* Founded in April of 2012 and was organized under New York Banking Law and incorporated in New York in September of 2015. [1]
+* Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
+
 * They are a multinational company with presense that spans three global financial capitals New York City, Singapore, and London.
+
 * They have a workforce made up of 110 employees across the globe.
 <!-- Who are the founders of the company? -->
 * The company was founded by a former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
