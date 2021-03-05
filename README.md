@@ -24,20 +24,18 @@
 
 <!-- Who are the founders of the company? -->
 * The company was founded by a former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
-&nbsp;
+
 <!-- How did the idea for the company (or project) come about? -->
 * Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
-&nbsp;
+
 <!-- How is the company funded? -->
 * They have received several rounds of venture capital funding.
-&nbsp;
+
 <!-- How much funding have they received? -->
 *  As of December 2020, they have received **US$240M** in total funding. [3]  (In May of 2018, US$65M Series B funding, and in December of 2020, **US$142M** Series C funding which includes Paypal Ventures. [3])
 &nbsp;
 
 ## **Business Activities**
-
-&nbsp;
 
 <!-- What specific financial problem is the company or project trying to solve? -->
 * They are addressing the time it takes for institutions to settle transactions in traditional markets.  (Typically, 24 hours to 3 days) The digitizing of securities and commodities would allow for immediate availability of proceeds upon settlement.
