@@ -4,20 +4,22 @@
 
 
 ## **Overview and Origin**
-<!-- Name of company? -->
+
+### Name of company?
+
 * Paxos Trust Company, LLC (Paxos) is a FinTech company that provides a regulated blockchain infrastructure platform, building a new, open financial system. [0]
 
-<!-- When was the company incorporated? -->
+### When was the company incorporated?
 * Founded in April of 2012 and organized under New York Banking Law and incorporated in New York in September of 2015. [1]
 
 * They are a multinational company with presense that spans three global financial capitals New York City, Singapore, and London.
 
 * They have a workforce made up of 110 employees across the globe. [0]
 
-<!-- Who are the founders of the company? -->
+### Who are the founders of the company?
 * The company was founded by a pair of former Financial Analyst Charles Cascarilla (CEO and co-founder) and Richmond Teo (CEO of Paxos Asia and co-founder). [1]
 
-<!-- How did the idea for the company (or project) come about? -->
+### How did the idea for the company come about?
 * Paxos was conceived because they wanted to solve problems in the financial system and realized that blockchain could provide the solution. [2]
 
 <!-- How is the company funded?  How much funding have they received? -->
@@ -34,11 +36,12 @@
 <!-- Is there any information about the market size of this set of customers? -->
 *   U.S. crypto exchanges made an estimated *$1 billion* in trade fee revenue in 2019. [4]  As the price of cryptocurrency increases the percentage based fee follows suit and allows for these type of companies to earn more with no additional effort.
 <!-- What solution does this company offer that their competitors do not or cannot offer? -->
-*   An Institutional grade alternative settlement solution and stablecoin as a service.
+*   They have an advantage over competitors because they offer an Institutional grade alternative settlement solution and stablecoin as a service.   They have more products than competitors.
+
 <!-- What is the unfair advantage they utilize? -->
-*  Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is *subject to a higher level of regulatory oversight, providing customer the trust that there funds are held securely*. [7]
+*  Paxos is a New York State-chartered trust company regulated by New York State Department of Financial Services (NYDFS).  Paxos is *subject to a higher level of regulatory oversight, providing customers the trust that there funds are held securely*. [7]  They are audited by multiple accounting firms to insure that newly minted PAX or PAXG is actually being backed by equivalent amounts in banks or vaults.
 <!-- Which technologies are they currently using, and how are they implementing them? -->
-*  They are using blockchain to settle public securities in a private blockchain and provide stablecoin as a service in a public blockchain.  
+*  They are using private blockchain to settle public securities and provide stablecoin as a service on public blockchain.  
 
 ## **Landscape**
 <!-- What domain of the financial industry is the company in? -->
@@ -58,29 +61,29 @@
 * Some of the metrics that can be used to compare the stablecoin solution with others is Market Capitalization, Market Dominance, and Trading Volume.
 
 <!-- How is your company performing, based on these metrics? -->
-* It is difficult to actually measure there performance entire product growth we are able to measure there impact in the PAX stablecoin Based on Market Cap they are not growing at the same rate as competitors but are increasing at a steady rate.  Market Dominance dropped from 4% to under 2% year over year.  Trading volume has decreased significantly (80-90% decrease). [5]
+* We are able to evaluate company performance by comparing there USD stablecoin PAX and Gold-backed stablecoin PAXG to other similar products.   There impact in the PAX stablecoin Based on Market Cap shows that they are not growing at the same rate as competitors but are increasing there market cap at a steady rate.  Market Dominance dropped from 4% to under 2% year over year due to USDT growth/popularity also the addition of new stablecoins .  Trading volume has decreased significantly (80-90% decrease) perhaps due to expiration of promotions during 2020. [5]  In the gold-backed stablecoin they presently trade the most and are 2nd in market cap to new Tether Gold-backed token XAUT.
 
 <!-- How is your company performing relative to competitors in the same domain? -->
 * Currently they are not growing as fast, but I anticipate business will pick up considerably once Paypal users can purchase native blockchain tokens powered by Paxos.
 
 ## **Recommendations**
 <!-- If you were to advise the company, what products or services would you suggest they offer? -->
-* Create the paxos native blockchain to be able to offer faster transaction time and a lower transaction fee.  (Should not depend on other Blockchains)
+* Create the paxos decentralized blockchain to offer faster transaction times and a lower fees.  (Should not depend on other Blockchains)
 
-* Lauch iOS and Android smartphone apps so users can exchange tokens on the go. 
+* Lauch an iOS and Android smartphone app so users can exchange tokens on the go and manage account activity.
 
-* Add securities to their exchange solution itBit so they can be traded side by side to native cryptocurrency.
+* Add securities/equities to their exchange so they are traded side by side to native cryptocurrency.  Allow for native cryptocurrency to stock purchases.
 
 * Reduce fees to help increase liquidity/volume on exchange. (Cryptocurrency Withdrawls Fees and ACH Fees)
 
 <!-- Why do you think that offering this product or service would benefit the company? -->
-* They are a fee-based company, and this would create new revenue from increased transaction volume and spike in new customers.
+* By offering these recommendations they will create new revenue and increase transaction count on there platform.  They are a fee-based company and more volume would translate to increased profit.
 
 <!-- What technologies would this additional product or service utilize? -->
-* They would need to decide on consensus mechanism and blockchain platform.
+* They would need to reuse an existing blockchain source code or create there own.  At the same time decide on a consensus mechanism.   They would require mobile app developers to maintain and continuosly develop the app.
 
 <!-- Why are these technologies appropriate for your solution? -->
-* Because public blockchains allows for all data to be freely accessible, smart contracts allow for execution of trade to be tied to events, and homomorphic encryption will allow for computation to be performed on encrypted data without exposing critical information about the transaction.
+* *The blockchain technology is appropriate because it is safer way of storing records and maintaining a history.   It is a database that stores data in blocks that are chained together.  Decentralized blockchains are immutable and data written to it is irreversible.* [8]
 
 ## *References*
 [0]: Our Company. <https://www.paxos.com/company/>
@@ -98,3 +101,5 @@
 [6]: Homomorphic encryption. In *Wikipedia* <https://en.wikipedia.org/wiki/Homomorphic_encryption#:~:text=Homomorphic%20encryption%20is%20a%20form,performed%20on%20the%20unencrypted%20data>
 
 [7]: Is Paxos regulated?  What does that mean?  <https://www.paxos.com/is-paxos-regulated/>
+
+[8]: Blockchain Explained, Conway, Luke (2020).  <https://www.investopedia.com/terms/b/blockchain.asp>
